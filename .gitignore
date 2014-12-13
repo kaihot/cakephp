@@ -9,7 +9,7 @@
 /dist
 /tags
 *.mo
-
+/app/tmp/*
 # IDE and editor specific files #
 #################################
 /nbproject
